@@ -35,4 +35,4 @@ pip install foobar
 
 ## Usage
 
-[adobe](https://oliviermo75.github.com/hello-app/graph2.png)
+[adobe](https://github.com/zyriuse75/hello-app/blob/main/graph2.png)
