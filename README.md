@@ -29,9 +29,6 @@ So I have implemented
 - [x] Container Security Content
  
 
-```bash
-pip install foobar
-```
 
-## Usage
+## schema architecture
 ![Architecture](graph2.png)
