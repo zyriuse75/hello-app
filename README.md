@@ -34,4 +34,4 @@ pip install foobar
 ```
 
 ## Usage
-![Architecture](hello-app/graph2.png)
+![Architecture](graph2.png)
