@@ -34,5 +34,4 @@ pip install foobar
 ```
 
 ## Usage
-
-[adobe](https://github.com/zyriuse75/hello-app/blob/main/graph2.png)
+![Architecture](hello-app/graph2.png)
